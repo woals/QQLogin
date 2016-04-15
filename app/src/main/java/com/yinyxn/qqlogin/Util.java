@@ -24,6 +24,7 @@ import android.text.TextUtils;
 import android.util.Log;
 import android.widget.Toast;
 
+// made by other people who I don't know
 public class Util {
 
 	private static final String TAG = "SDK_Sample.Util";
